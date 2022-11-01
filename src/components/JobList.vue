@@ -53,7 +53,7 @@ onMounted(() => {
             col-start-1 col-end-2
           "
         >
-          <img class="rounded-full" src="../img/Hospital image.svg" />
+          <img class="rounded-full" src="../img/Hospital_image.svg" />
         </div>
 
         <div class="col-start-2 col-end-7 ml-4 sm:ml-0">
@@ -77,7 +77,7 @@ onMounted(() => {
           </div>
 
           <div class="flex gap-2 pt-1">
-            <img src="../img/Combined Shape.svg" />
+            <img src="../img/Combined_Shape.svg" />
             <h4 class="text-[#878D9D]">{{ post.address }}</h4>
           </div>
         </div>
@@ -96,7 +96,7 @@ onMounted(() => {
         <div>
           <div class="flex flex-col m-w-[138px]">
             <div class="self-end p-2">
-              <img class="self-end" src="../img/Rectangle 31.svg" />
+              <img class="self-end" src="../img/Rectangle_31.svg" />
             </div>
             <div class="text-center mt-[40px] text-[#878D9D]">
               <h4>Posted 2 days ago</h4>
@@ -142,9 +142,9 @@ onMounted(() => {
               Job Details
             </h2>
             <div class="flex px-1 self-start sm:self-center gap-2">
-              <img src="../img/Rectangle 31.svg" />
+              <img src="../img/Rectangle_31.svg" />
               <h4 class="text-[18px]">Save to my list</h4>
-              <img src="../img/Shape icon.svg" />
+              <img src="../img/Shape_icon.svg" />
               <h4 class="text-[18px]">Share</h4>
             </div>
           </div>
@@ -325,7 +325,7 @@ onMounted(() => {
                 w-[26px]
                 h-[36px]
               "
-              src="../img/Combined Shape.svg"
+              src="../img/Combined_Shape.svg"
             />
             <div class="max-w-[277px] absolute top-[8px] left-[70px]">
               <h4 class="mb-2">
@@ -334,7 +334,7 @@ onMounted(() => {
                 {{ objectDeteile.name }}
               </h4>
               <div class="flex items-baseline mb-2">
-                <img class="mr-2" src="../img/Combined Shape.svg" />
+                <img class="mr-2" src="../img/Combined_Shape.svg" />
                 <h4>{{ objectDeteile.address }}</h4>
               </div>
               <h4>{{ objectDeteile.phone }},</h4>
