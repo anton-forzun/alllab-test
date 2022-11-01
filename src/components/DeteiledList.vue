@@ -12,9 +12,9 @@ const deteile = ref(false);
         >
           <h2 class="text-[28px] font-bold">Job Details</h2>
           <div class="flex gap-2">
-            <img src="../img/Rectangle 31.svg" />
+            <img src="../img/Rectangle_31.svg" />
             <h4 class="text-[18px]">Save to my list</h4>
-            <img src="../img/Shape icon.svg" />
+            <img src="../img/Shape_icon.svg" />
             <h4 class="text-[18px]">Share</h4>
           </div>
         </div>
@@ -237,7 +237,7 @@ const deteile = ref(false);
               w-[26px]
               h-[36px]
             "
-            src="../img/Combined Shape.svg"
+            src="../img/Combined_Shape.svg"
           />
           <div class="max-w-[277px] absolute top-[8px] left-[70px]">
             <h4 class="mb-2">
@@ -246,7 +246,7 @@ const deteile = ref(false);
               Hospital Giessen.
             </h4>
             <div class="flex items-baseline mb-2">
-              <img class="mr-2" src="../img/Combined Shape.svg" />
+              <img class="mr-2" src="../img/Combined_Shape.svg" />
               <h4>AKH Wien, 1090 Wien, Währinger Gürtel 18-20</h4>
             </div>
             <h4>+43 (01) 40400-12090,</h4>
